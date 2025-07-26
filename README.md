@@ -1,9 +1,9 @@
-# auditoria-wifi
 # Script para Auditoria Wifi 802.11
 #  Script de Análisis de Vulnerabilidades WiFi
 # Autor:  FezaThreatBlock
 # Versión: 1.0
-# Repositorio:
+
+---
 
 # -------------------------------------------
 # 📌 DESCRIPCIÓN GENERAL
